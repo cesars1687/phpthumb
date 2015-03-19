@@ -2,7 +2,7 @@
     "name": "cesarherbozo/phpthumb",
     "type": "library",
     "license": "MIT",
-    "description": "A library for manipulating images in PHP and watermark.",
+    "description": "A library for manipulating images in PHP.",
     "keywords": ["image", "resize", "rotate"],
     "require": {
         "php": ">=5.3.0",
